@@ -1,1 +1,2 @@
 Dog { 
+  number of legs 
